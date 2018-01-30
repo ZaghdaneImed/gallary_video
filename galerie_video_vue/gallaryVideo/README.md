@@ -2,6 +2,16 @@
 
 > A Vue.js project
 
+## Détails
+
+Dans ce projet on a utilisé Firebase comme base de données. 
+
+En effet, on peut ajouter, modifier et supprimer des videos de cette base.
+
+Pour lancer l'application, il suffit de se déplacer dans le répertoire du projet et lancer: 
+      
+      npm run dev 
+
 ## Build Setup
 
 ``` bash
